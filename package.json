@@ -1,0 +1,22 @@
+{
+  "name": "apitrack",
+  "version": "1.0.0",
+  "description": "test api track gps",
+  "main": "server.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmanDJsan/apiTrack.git"
+  },
+  "author": "armand sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmanDJsan/apiTrack/issues"
+  },
+  "homepage": "https://github.com/ArmanDJsan/apiTrack#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
